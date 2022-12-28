@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_burc_app/burc_item.dart';
+import 'package:flutter_burc_app/screens/burc_item.dart';
 import 'package:flutter_burc_app/data/strings.dart';
 import 'package:flutter_burc_app/model/burc.dart';
 
